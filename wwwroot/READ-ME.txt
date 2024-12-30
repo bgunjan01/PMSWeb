@@ -1,0 +1,11 @@
+  =>   Name    : PMS - Pushpai Multi Services
+
+  =>   Link    : https://pms.com/
+
+  =>   License : https://pms.com/license (or read the LICENSE.txt file)
+
+  =>   Author  : Gayatree Solutions
+
+  =>  Author Website   : https://gayatreesolutions.com
+
+  =>  About Gayatree Solutions : Gayatree Solutions is one of the top creators and publishers of Pushpai Multi Services, HTML landing pages, HTML email templates and HTML snippets.
